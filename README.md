@@ -2,6 +2,11 @@
  leet code problem solution 
 https://leetcode.com/problems/generate-parentheses/
 
+# non-useful files - ignore these - they are configuration files 
+ 1. the gitattrib
+ 2. the idea files 
+ 3. pycache
+
 
 ## approach
 I use a dictionary to solve the problem. All the i+1 stages are made using the previous i stage's strings.
